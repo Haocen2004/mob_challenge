@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "travelled": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "travelled"
+    ]
+  ]
+}

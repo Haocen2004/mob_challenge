@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "criteria": {
+    "broke_hoe": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "broke_hoe"
+    ]
+  ]
+}

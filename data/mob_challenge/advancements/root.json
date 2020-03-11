@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:stone_bricks"
+		},
+		"title":{
+			"translate": "加入游戏"
+		},
+		"description": {
+			"translate": "一个用来探测加入游戏的成就"
+		},
+		"background": "minecraft:textures/block/stone_bricks.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"root": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"rewards": {
+		"function": "mob_challenge:onplayerjoin"
+	}
+}

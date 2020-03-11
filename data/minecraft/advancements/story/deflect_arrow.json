@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:story/obtain_armor",
+  "criteria": {
+    "deflected_projectile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "deflected_projectile"
+    ]
+  ]
+}

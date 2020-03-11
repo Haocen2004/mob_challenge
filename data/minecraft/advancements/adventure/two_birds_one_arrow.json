@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:adventure/ol_betsy",
+  "rewards": {
+    "experience": 65
+  },
+  "criteria": {
+    "two_birds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "two_birds"
+    ]
+  ]
+}

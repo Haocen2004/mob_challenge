@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "voluntary_exile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "voluntary_exile"
+    ]
+  ]
+}

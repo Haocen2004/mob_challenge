@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/get_wither_skull",
+  "criteria": {
+    "summoned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "summoned"
+    ]
+  ]
+}

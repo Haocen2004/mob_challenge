@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/summon_wither",
+  "criteria": {
+    "beacon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "beacon"
+    ]
+  ]
+}

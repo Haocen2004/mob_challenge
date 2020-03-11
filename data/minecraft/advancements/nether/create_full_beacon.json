@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/create_beacon",
+  "criteria": {
+    "beacon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "beacon"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:golden_apple"
+		},
+		"title":{
+			"translate": "金苹果！"
+		},
+		"description": {
+			"translate": "有好有坏"
+		},
+		"hidden":true,
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent":"mob_challenge:root",
+	"criteria": {
+		"normalapple": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:golden_apple"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "mob_challenge:game_logic/item/goldapple"
+	}
+}

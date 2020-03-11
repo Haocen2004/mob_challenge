@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:story/smelt_iron",
+  "criteria": {
+    "lava_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "lava_bucket"
+    ]
+  ]
+}

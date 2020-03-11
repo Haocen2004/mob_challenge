@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/find_fortress",
+  "criteria": {
+    "wither_skull": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wither_skull"
+    ]
+  ]
+}

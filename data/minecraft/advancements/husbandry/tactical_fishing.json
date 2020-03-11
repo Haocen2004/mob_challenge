@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:husbandry/fishy_business",
+  "criteria": {
+    "cod_bucket": {
+      "trigger": "minecraft:impossible"
+    },
+    "tropical_fish_bucket": {
+      "trigger": "minecraft:impossible"
+    },
+    "pufferfish_bucket": {
+      "trigger": "minecraft:impossible"
+    },
+    "salmon_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "cod_bucket",
+      "tropical_fish_bucket",
+      "pufferfish_bucket",
+      "salmon_bucket"
+    ]
+  ]
+}

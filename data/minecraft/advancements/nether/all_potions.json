@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/brew_potion",
+  "criteria": {
+    "all_effects": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "all_effects"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:adventure/ol_betsy",
+  "rewards": {
+    "experience": 85
+  },
+  "criteria": {
+    "arbalistic": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "arbalistic"
+    ]
+  ]
+}

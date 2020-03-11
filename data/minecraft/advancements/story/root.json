@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ]
+}

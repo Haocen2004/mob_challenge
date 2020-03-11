@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "consumed_item": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "consumed_item"
+    ]
+  ]
+}

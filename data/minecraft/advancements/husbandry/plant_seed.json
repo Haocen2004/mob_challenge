@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "wheat": {
+      "trigger": "minecraft:impossible"
+    },
+    "pumpkin_stem": {
+      "trigger": "minecraft:impossible"
+    },
+    "melon_stem": {
+      "trigger": "minecraft:impossible"
+    },
+    "beetroots": {
+      "trigger": "minecraft:impossible"
+    },
+    "nether_wart": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wheat",
+      "pumpkin_stem",
+      "melon_stem",
+      "beetroots",
+      "nether_wart"
+    ]
+  ]
+}

@@ -1,0 +1,4 @@
+function mob_challenge:reset
+function mob_challenge:root
+function mob_challenge:__debug/_debugon
+advancement revoke Hao_cen everything

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "criteria": {
+    "used_totem": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "used_totem"
+    ]
+  ]
+}

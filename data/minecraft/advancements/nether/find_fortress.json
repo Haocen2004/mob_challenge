@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "fortress": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fortress"
+    ]
+  ]
+}

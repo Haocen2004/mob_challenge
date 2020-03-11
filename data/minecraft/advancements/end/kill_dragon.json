@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:end/root",
+  "criteria": {
+    "killed_dragon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_dragon"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "killed_ghast": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_ghast"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "bred": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bred"
+    ]
+  ]
+}

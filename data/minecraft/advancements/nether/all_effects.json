@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:nether/all_potions",
+  "criteria": {
+    "all_effects": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "all_effects"
+    ]
+  ]
+}

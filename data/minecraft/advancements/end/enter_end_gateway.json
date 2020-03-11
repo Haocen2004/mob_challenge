@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "entered_end_gateway": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end_gateway"
+    ]
+  ]
+}

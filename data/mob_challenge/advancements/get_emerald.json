@@ -1,0 +1,32 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:emerald"
+		},
+		"title":{
+			"translate": "绿宝石！"
+		},
+		"description": {
+			"translate": "不错的交易"
+		},
+		"hidden":true,
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent":"mob_challenge:root",
+	"criteria": {
+		"normalapple": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:emerald"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "mob_challenge:game_logic/item/emerald"
+	}
+}

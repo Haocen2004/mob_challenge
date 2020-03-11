@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "textures/entity/cat/tabby.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/black.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/red.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/siamese.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/british_shorthair.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/calico.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/persian.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/ragdoll.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/white.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/jellie.png": {
+      "trigger": "minecraft:impossible"
+    },
+    "textures/entity/cat/all_black.png": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "textures/entity/cat/tabby.png"
+    ],
+    [
+      "textures/entity/cat/black.png"
+    ],
+    [
+      "textures/entity/cat/red.png"
+    ],
+    [
+      "textures/entity/cat/siamese.png"
+    ],
+    [
+      "textures/entity/cat/british_shorthair.png"
+    ],
+    [
+      "textures/entity/cat/calico.png"
+    ],
+    [
+      "textures/entity/cat/persian.png"
+    ],
+    [
+      "textures/entity/cat/ragdoll.png"
+    ],
+    [
+      "textures/entity/cat/white.png"
+    ],
+    [
+      "textures/entity/cat/jellie.png"
+    ],
+    [
+      "textures/entity/cat/all_black.png"
+    ]
+  ]
+}

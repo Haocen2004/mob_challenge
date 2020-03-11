@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "slept_in_bed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "slept_in_bed"
+    ]
+  ]
+}

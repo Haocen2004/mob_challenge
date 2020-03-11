@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:adventure/shoot_arrow",
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "killed_skeleton": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_skeleton"
+    ]
+  ]
+}

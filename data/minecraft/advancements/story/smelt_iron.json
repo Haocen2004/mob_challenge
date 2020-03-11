@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "criteria": {
+    "iron": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "iron"
+    ]
+  ]
+}

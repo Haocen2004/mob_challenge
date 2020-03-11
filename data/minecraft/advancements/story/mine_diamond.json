@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "diamond"
+    ]
+  ]
+}

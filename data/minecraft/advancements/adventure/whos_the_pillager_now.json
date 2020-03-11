@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:adventure/ol_betsy",
+  "criteria": {
+    "kill_pillager": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_pillager"
+    ]
+  ]
+}

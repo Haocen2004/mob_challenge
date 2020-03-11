@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:story/smelt_iron",
+  "criteria": {
+    "iron_helmet": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_chestplate": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_leggings": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_boots": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "iron_helmet",
+      "iron_chestplate",
+      "iron_leggings",
+      "iron_boots"
+    ]
+  ]
+}

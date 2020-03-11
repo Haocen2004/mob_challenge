@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "summoned_dragon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "summoned_dragon"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:story/mine_diamond",
+  "criteria": {
+    "diamond_helmet": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_chestplate": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_leggings": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_boots": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "diamond_helmet",
+      "diamond_chestplate",
+      "diamond_leggings",
+      "diamond_boots"
+    ]
+  ]
+}

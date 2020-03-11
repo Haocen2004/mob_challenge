@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:story/follow_ender_eye",
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ]
+}

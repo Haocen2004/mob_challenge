@@ -1,0 +1,160 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "minecraft:cave_spider": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:spider": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:zombie_pigman": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:enderman": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:blaze": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:creeper": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:evoker": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ghast": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:guardian": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:husk": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:magma_cube": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:shulker": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:silverfish": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:skeleton": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:slime": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:stray": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:vindicator": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:witch": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wither_skeleton": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:zombie": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:zombie_villager": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:phantom": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:drowned": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:pillager": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ravager": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:cave_spider"
+    ],
+    [
+      "minecraft:spider"
+    ],
+    [
+      "minecraft:zombie_pigman"
+    ],
+    [
+      "minecraft:enderman"
+    ],
+    [
+      "minecraft:blaze"
+    ],
+    [
+      "minecraft:creeper"
+    ],
+    [
+      "minecraft:evoker"
+    ],
+    [
+      "minecraft:ghast"
+    ],
+    [
+      "minecraft:guardian"
+    ],
+    [
+      "minecraft:husk"
+    ],
+    [
+      "minecraft:magma_cube"
+    ],
+    [
+      "minecraft:shulker"
+    ],
+    [
+      "minecraft:silverfish"
+    ],
+    [
+      "minecraft:skeleton"
+    ],
+    [
+      "minecraft:slime"
+    ],
+    [
+      "minecraft:stray"
+    ],
+    [
+      "minecraft:vindicator"
+    ],
+    [
+      "minecraft:witch"
+    ],
+    [
+      "minecraft:wither_skeleton"
+    ],
+    [
+      "minecraft:zombie"
+    ],
+    [
+      "minecraft:zombie_villager"
+    ],
+    [
+      "minecraft:phantom"
+    ],
+    [
+      "minecraft:drowned"
+    ],
+    [
+      "minecraft:pillager"
+    ],
+    [
+      "minecraft:ravager"
+    ]
+  ]
+}

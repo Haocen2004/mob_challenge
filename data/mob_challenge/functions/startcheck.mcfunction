@@ -1,0 +1,2 @@
+execute if score mobc_players mobc_main >= mobc_1 mobc_static as @s run function mob_challenge:start
+execute unless score mobc_players mobc_main >= mobc_1 mobc_static run title @a title {"translate":"游戏人数错误！","color":"red"}

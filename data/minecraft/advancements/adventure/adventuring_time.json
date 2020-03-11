@@ -1,0 +1,262 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "rewards": {
+    "experience": 500
+  },
+  "criteria": {
+    "minecraft:birch_forest_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:river": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:swamp": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:desert": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wooded_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:giant_tree_taiga_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:snowy_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:badlands": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:stone_shore": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:snowy_tundra": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:taiga_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:snowy_mountains": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wooded_badlands_plateau": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:savanna": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:plains": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:frozen_river": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:giant_tree_taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:snowy_beach": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:jungle_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:jungle_edge": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mushroom_field_shore": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mountains": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:desert_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:beach": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:savanna_plateau": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:snowy_taiga_hills": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:badlands_plateau": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:dark_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:taiga": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:birch_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mushroom_fields": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wooded_mountains": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:warm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:lukewarm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:cold_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:deep_lukewarm_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:deep_cold_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:deep_frozen_ocean": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:bamboo_jungle": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:bamboo_jungle_hills": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:birch_forest_hills"
+    ],
+    [
+      "minecraft:river"
+    ],
+    [
+      "minecraft:swamp"
+    ],
+    [
+      "minecraft:desert"
+    ],
+    [
+      "minecraft:wooded_hills"
+    ],
+    [
+      "minecraft:giant_tree_taiga_hills"
+    ],
+    [
+      "minecraft:snowy_taiga"
+    ],
+    [
+      "minecraft:badlands"
+    ],
+    [
+      "minecraft:forest"
+    ],
+    [
+      "minecraft:stone_shore"
+    ],
+    [
+      "minecraft:snowy_tundra"
+    ],
+    [
+      "minecraft:taiga_hills"
+    ],
+    [
+      "minecraft:snowy_mountains"
+    ],
+    [
+      "minecraft:wooded_badlands_plateau"
+    ],
+    [
+      "minecraft:savanna"
+    ],
+    [
+      "minecraft:plains"
+    ],
+    [
+      "minecraft:frozen_river"
+    ],
+    [
+      "minecraft:giant_tree_taiga"
+    ],
+    [
+      "minecraft:snowy_beach"
+    ],
+    [
+      "minecraft:jungle_hills"
+    ],
+    [
+      "minecraft:jungle_edge"
+    ],
+    [
+      "minecraft:mushroom_field_shore"
+    ],
+    [
+      "minecraft:mountains"
+    ],
+    [
+      "minecraft:desert_hills"
+    ],
+    [
+      "minecraft:jungle"
+    ],
+    [
+      "minecraft:beach"
+    ],
+    [
+      "minecraft:savanna_plateau"
+    ],
+    [
+      "minecraft:snowy_taiga_hills"
+    ],
+    [
+      "minecraft:badlands_plateau"
+    ],
+    [
+      "minecraft:dark_forest"
+    ],
+    [
+      "minecraft:taiga"
+    ],
+    [
+      "minecraft:birch_forest"
+    ],
+    [
+      "minecraft:mushroom_fields"
+    ],
+    [
+      "minecraft:wooded_mountains"
+    ],
+    [
+      "minecraft:warm_ocean"
+    ],
+    [
+      "minecraft:lukewarm_ocean"
+    ],
+    [
+      "minecraft:cold_ocean"
+    ],
+    [
+      "minecraft:deep_lukewarm_ocean"
+    ],
+    [
+      "minecraft:deep_cold_ocean"
+    ],
+    [
+      "minecraft:deep_frozen_ocean"
+    ],
+    [
+      "minecraft:bamboo_jungle"
+    ],
+    [
+      "minecraft:bamboo_jungle_hills"
+    ]
+  ]
+}

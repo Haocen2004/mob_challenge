@@ -1,0 +1,91 @@
+{
+  "parent": "minecraft:husbandry/breed_an_animal",
+  "criteria": {
+    "minecraft:horse": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:sheep": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:cow": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mooshroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:pig": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:chicken": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wolf": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ocelot": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:rabbit": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:llama": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:turtle": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:cat": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:panda": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:fox": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:horse"
+    ],
+    [
+      "minecraft:sheep"
+    ],
+    [
+      "minecraft:cow"
+    ],
+    [
+      "minecraft:mooshroom"
+    ],
+    [
+      "minecraft:pig"
+    ],
+    [
+      "minecraft:chicken"
+    ],
+    [
+      "minecraft:wolf"
+    ],
+    [
+      "minecraft:ocelot"
+    ],
+    [
+      "minecraft:rabbit"
+    ],
+    [
+      "minecraft:llama"
+    ],
+    [
+      "minecraft:turtle"
+    ],
+    [
+      "minecraft:cat"
+    ],
+    [
+      "minecraft:panda"
+    ],
+    [
+      "minecraft:fox"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:golden_apple"
+		},
+		"title":{
+			"translate": "附魔金苹果！"
+		},
+		"description": {
+			"translate": "君临天下！"
+		},
+		"hidden": true,
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent":"mob_challenge:root",
+	"criteria": {
+
+		"enchantapple": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:enchanted_golden_apple"
+					}
+				]
+			}
+		}
+
+	},
+	"rewards": {
+		"function": "mob_challenge:game_logic/item/enchantapple"
+	}
+}
